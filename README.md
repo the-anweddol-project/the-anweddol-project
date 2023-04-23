@@ -1,16 +1,15 @@
-### Hi there 👋
+# The Anweddol project
 
-<!--
-**the-anweddol-project/the-anweddol-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Description
 
-Here are some ideas to get you started:
+Anweddol is a client/server implementation that provides SSH-controllable temporary virtual machines over the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+The main goal of this project is to provide a service against censorship and surveillance, to make internet a place that belongs to everyone without being afraid of censorship or surveillance.
+
+## About the creator
+
+I am Darnethal0z, a self-taught developper / techie who enjoys creating open-source and useful tools !
+I want to reunite a community around this creation of mine called 'Anweddol' : This is a recent software that requires new ideas and improvements, that's why you can be a part of it regardless of your competences or convictions. 
+
