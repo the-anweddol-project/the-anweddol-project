@@ -7,4 +7,4 @@ Anweddol is a client/server implementation that provides SSH-controllable tempor
 
 ## About
 
-The main goal of this project is to provide a service against censorship and surveillance, to make internet a place that belongs to everyone without being afraid of censorship or surveillance.
+The main goal of this project is to provide a service against censorship and surveillance, to make internet a place that belongs to its users.
