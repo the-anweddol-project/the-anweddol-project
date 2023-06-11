@@ -15,6 +15,6 @@ The main objective of this project is to improve online anonymity by providing a
 
 ## Note
 
-The software is currently under development. 
+The software is currently under its first beta version (1.0.0). 
 
 You can retrieve some trivial information on the [front page website](https://the-anweddol-project.github.io) or the [reddit community page](https://www.reddit.com/r/Anweddol).
