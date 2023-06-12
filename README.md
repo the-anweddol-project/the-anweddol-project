@@ -1,5 +1,5 @@
 # The Anweddol project
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-important)](https://www.python.org/)
 [![license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://shields.io/)
 [![release](https://img.shields.io/badge/release%20date-soon!-brightgreen)](https://shields.io/)
 
@@ -9,12 +9,14 @@
 
 Anweddol is a client/server system providing temporary, SSH-controllable virtual machines to enhance anonymity online.
 
+The software is currently under its first beta version (1.0.0). 
+
 ## About
 
 The main objective of this project is to improve online anonymity by providing a service against censorship and surveillance, in order to make the internet a place that belongs to its users.
 
-## Note
+## Social
 
-The software is currently under its first beta version (1.0.0). 
-
-You can retrieve some trivial information on the [front page website](https://the-anweddol-project.github.io) or the [reddit community page](https://www.reddit.com/r/Anweddol).
+- [Front page website](https://the-anweddol-project.github.io)
+- Anweddol [reddit community page](https://www.reddit.com/r/Anweddol)
+- Join the Anweddol [Zulip organization](https://anweddol.zulipchat.com)
