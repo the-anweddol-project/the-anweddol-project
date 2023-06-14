@@ -9,8 +9,6 @@
 
 Anweddol is a client/server system providing temporary, SSH-controllable virtual machines to enhance anonymity online.
 
-The software is currently under its first beta version (1.0.0). 
-
 ## About
 
 The main objective of this project is to improve online anonymity by proposing a service against censorship and surveillance, in order to make the internet a place that belongs to its users.
