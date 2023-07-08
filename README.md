@@ -16,5 +16,5 @@ The main objective of this project is to improve online anonymity by proposing a
 ## Social
 
 - [Front page website](https://the-anweddol-project.github.io)
-- Anweddol [reddit community page](https://www.reddit.com/r/Anweddol)
+- Anweddol [reddit community page](https://www.reddit.com/r/Anweddol) (unused for now)
 - Join the Anweddol [Zulip organization](https://anweddol.zulipchat.com)
